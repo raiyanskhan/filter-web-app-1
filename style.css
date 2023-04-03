@@ -1,0 +1,22 @@
+body
+{
+background-color: rgb(23, 211, 2);
+text-align: center;
+}
+#Header_1
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(36, 255, 91);
+    font-size:xx-large;
+    back
+}
+#canvas
+{
+    border-width: 30px;
+    border-color: lightgray;
+    border-radius: 19px;
+    text-shadow: rgb(255, 139, 139);
+    height: 400px;
+    width: 400px;
+     background-color: rgb(79, 243, 255);
+}
